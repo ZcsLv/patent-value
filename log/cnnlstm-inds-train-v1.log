@@ -1,0 +1,54 @@
+2022-08-18 10:38:09,656   INFO  
+## The 0 Epoch, All 20 Epochs ! ##
+2022-08-18 10:40:01,192   INFO  
+## The 0 Epoch, All 20 Epochs ! ##
+2022-08-18 10:43:10,763   INFO  
+## The 0 Epoch, All 20 Epochs ! ##
+2022-08-18 10:45:11,311   INFO  
+## The 0 Epoch, All 20 Epochs ! ##
+2022-08-18 10:51:39,904   INFO  
+## The 0 Epoch, All 20 Epochs ! ##
+2022-08-18 10:57:56,874   INFO  
+## The 0 Epoch, All 20 Epochs ! ##
+2022-08-18 11:09:37,149   INFO  
+## The 0 Epoch, All 20 Epochs ! ##
+2022-08-18 11:10:23,189   INFO  
+## The 0 Epoch, All 20 Epochs ! ##
+2022-08-18 11:11:49,931   INFO  
+## The 0 Epoch, All 20 Epochs ! ##
+2022-08-18 11:20:55,618   INFO  
+## The 0 Epoch, All 20 Epochs ! ##
+2022-08-18 11:22:44,321   INFO  
+## The 0 Epoch, All 20 Epochs ! ##
+2022-08-18 11:22:51,515   INFO  
+ steps: 50   ,train_loss: 0.6475968956947327 , train_acc, 0.75
+2022-08-18 11:22:55,091   INFO  
+ steps: 50   ,dev_loss 0.21829265356063843 , dev_acc 0.34578804347826086 
+2022-08-18 11:23:01,397   INFO  
+## The 1 Epoch, All 20 Epochs ! ##
+2022-08-18 11:23:14,224   INFO  
+ steps: 50   ,train_loss: 0.616707980632782 , train_acc, 0.7109375
+2022-08-18 13:41:50,063   INFO  
+## The 0 Epoch, All 20 Epochs ! ##
+2022-08-18 13:41:55,730   INFO  
+ steps: 50   ,train_loss: 0.7910677194595337 , train_acc, 0.609375
+2022-08-18 13:41:59,090   INFO  
+ steps: 50   ,dev_loss 0.4515613317489624 , dev_acc 0.30061141304347827 
+2022-08-18 13:42:04,647   INFO  
+ steps: 100   ,train_loss: 0.6327112317085266 , train_acc, 0.734375
+2022-08-18 13:46:35,967   INFO  
+## The 0 Epoch, All 20 Epochs ! ##
+2022-08-18 13:48:06,641   INFO  
+## The 0 Epoch, All 20 Epochs ! ##
+2022-08-18 13:56:00,489   INFO  
+## The 0 Epoch, All 20 Epochs ! ##
+2022-08-18 13:56:03,950   INFO  
+ steps: 1   ,train_loss: 1.171291470527649 , train_acc, 0.40625
+2022-08-18 13:56:06,826   INFO  
+ steps: 1   ,dev_loss 0.3642863929271698 , dev_acc 0.30910326086956524 
+2022-08-18 13:56:07,704   INFO  
+ steps: 51   ,train_loss: 0.6669902205467224 , train_acc, 0.703125
+2022-08-18 13:56:10,502   INFO  
+ steps: 51   ,dev_loss 0.3981166183948517 , dev_acc 0.2938179347826087 
+2022-08-18 13:56:11,459   INFO  
+ steps: 101   ,train_loss: 0.6590343713760376 , train_acc, 0.703125
